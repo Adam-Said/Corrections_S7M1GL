@@ -23,7 +23,7 @@ Les corrections sont accessibles dans les dossiers correspondants à chaque UE :
 * [HAI715I - Ordres, Treillis et Induction](HAI715I)
 * [HAI721I - Programmation répartie](HAI721I)
 
-Si vous remarquez un problème dans une correction, vous pouvez ouvrir une issue [ici](https://github.com/Gaiko19/TD-TP_M1-GL/issues/). Si l'issue de la correction pour le TD en particulier est encore ouverte, vous pouvez directement commenter dans l'issue en elle-même.
+Si vous remarquez un problème dans une correction, vous pouvez ouvrir une issue [ici](https://github.com/Gaiko19/Corrections_M1GL/issues/). Si l'issue de la correction pour le TD en particulier est encore ouverte, vous pouvez directement commenter dans l'issue en elle-même.
 
 ## Contribuer
 
