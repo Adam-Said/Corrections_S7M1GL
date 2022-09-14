@@ -16,12 +16,12 @@ Aucun sujet de TD/TP ne se trouvera sur ce répertoire, car ils ne nous appartie
 ## Accès aux corrections
 
 Les corrections sont accessibles dans les dossiers correspondants à chaque UE :
-* [HAI704I - Architectures logicielles distribuées](HAI704I)
-* [HAI705I - Compilation](HAI705I)
-* [HAI712I - Ingénierie logicielle](HAI712I)
-* [HAI713I - Logique, Calculabilité et Complexité](HAI713I)
-* [HAI715I - Ordres, Treillis et Induction](HAI715I)
-* [HAI721I - Programmation répartie](HAI721I)
+* [HAI704I - Architectures logicielles distribuées](HAI704I%20Architectures%20logicielles%20distribuées)
+* [HAI705I - Compilation](HAI705I%20Compilation)
+* [HAI712I - Ingénierie logicielle](HAI712I%20Ingénierie%20logicielle)
+* [HAI713I - Logique, Calculabilité et Complexité](HAI713I%20Logique%20Calculabilité%20Complexité)
+* [HAI715I - Ordres, Treillis et Induction](HAI715I%20Ordres%20treillis%20et%20induction)
+* [HAI721I - Programmation répartie](HAI721I%20Programmation%20répartie)
 
 Si vous remarquez un problème dans une correction, vous pouvez ouvrir une issue [ici](https://github.com/Gaiko19/Corrections_M1GL/issues/). Si l'issue de la correction pour le TD en particulier est encore ouverte, vous pouvez directement commenter dans l'issue en elle-même.
 
