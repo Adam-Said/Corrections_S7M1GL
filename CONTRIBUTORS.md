@@ -4,13 +4,12 @@
 
 Le répertoire est organisé de la manière suivante :
 ```console
-├── corrections
-│   ├── CODE_UE
-|   |   ├── TD1
-|   |   ├── TD2
-|   |   └── TDi
-│   ├── CODE_UE2
-│   ├── CODE_UE3
+|── CODE_UE
+|   ├── TD1
+|   ├── TD2
+|   └── TDi
+├── CODE_UE2
+├── CODE_UE3
 ├── CONTRIBUTORS.md
 └── README.md
 ```
