@@ -45,7 +45,7 @@ public class FastDictionary extends AbstractDictionary {
 	}
 	
 	public boolean mustGrow() {
-		return ((float)size() / (float)keyDic.length > 0.75);
+		return ((float)size() / (float)keyDic.length >= 0.75);
 	}
 	
 	public IDictionary grow() {

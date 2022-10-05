@@ -71,7 +71,10 @@ public class SortedDictionary extends AbstractDictionary {
 				break;
 			}
 			indiceCur++;
+			
 		}
+		indice = indiceCur;
+		
 		
 		Object[] tmpKey = new Object[newSize];
 		Object[] tmpValue = new Object[newSize];

@@ -1,5 +1,6 @@
 package dictionnaire;
 
+
 public class UtilisationDictionnaire {
 
 	public static void main(String[] args) throws InexistentException {
@@ -112,14 +113,19 @@ public class UtilisationDictionnaire {
 		dicSorted.put("Godel", "Logicien et mathématicien autrichien");
 		cle = "Godel";
 		System.out.println(cle + ": " + dicSorted.get(cle));
+
+		dicSorted.put("ZZZ", "ZZZ");
+		cle = "ZZZ";
+		System.out.println(cle + ": " + dicSorted.get(cle));
+		
+		dicSorted.put("ZA", "ZA");
+		cle = "ZA";
+		System.out.println(cle + ": " + dicSorted.get(cle));
 		
 		dicSorted.put("AAABBBBBCCCCCCCDDD", "AAAAAAAAAAAAAAA");
 		cle = "AAABBBBBCCCCCCCDDD";
 		System.out.println(cle + ": " + dicSorted.get(cle));
 
-		dicSorted.put("Z", "Z");
-		cle = "Z";
-		System.out.println(cle + ": " + dicSorted.get(cle));
 		
 		System.out.println("La nouvelle taille du dictionnaire est de "+ dicSorted.size() + " mots\n");
 
