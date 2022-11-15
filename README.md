@@ -1,5 +1,5 @@
 # Corrections des TD et TP du M1 GL
-Ce répertoire contient les corrections des différents TD/TP du semestre 6 de la licence 3 d'informatique de l'Université de Montpellier.
+Ce répertoire contient les corrections des différents TD/TP du semestre 7 du Master 1 Génie Logiciel de l'Université de Montpellier.
 
 Pour chaque TD/TP, il y a plusieurs corrections, une par auteur qui veut bien contribuer à celles-ci.
 
