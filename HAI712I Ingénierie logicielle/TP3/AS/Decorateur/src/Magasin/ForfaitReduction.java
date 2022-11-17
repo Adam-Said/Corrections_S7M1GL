@@ -7,7 +7,7 @@ public class ForfaitReduction extends Forfait {
 	}
 	
 	public double prixLocation(Produit prod) {
-		return super.prixLocation(prod);
+		return (super.prixLocation(prod) * 0.90);
 	}
 
 }

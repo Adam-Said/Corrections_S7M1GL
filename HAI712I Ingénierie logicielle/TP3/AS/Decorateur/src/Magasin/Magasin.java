@@ -23,9 +23,9 @@ public class Magasin {
 			System.out.println("Prix compte avec seuil : " + cmt3.prixLocation(lgv));
 		}
 		
-		//Dupont achete un forfait r ́eduction.
+		//Dupont achete un forfait reduction.
 		 cmt = new ForfaitReduction (cmt);
-		 System.out.println("r ́eduction lgv : " + cmt.prixLocation(lgv));
+		 System.out.println("reduction lgv : " + cmt.prixLocation(lgv));
 		 //Dupont achete en plus un forfait seuil, le seuil est `a 2
 		 cmt = new ForfaitSeuil (cmt);
 		 System.out.println("Seuil1+Reduction lgv: " + cmt.prixLocation(lgv));
