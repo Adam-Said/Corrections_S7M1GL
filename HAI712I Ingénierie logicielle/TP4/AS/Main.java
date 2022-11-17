@@ -1,3 +1,7 @@
+// Par Adam SAID
+// TP7 Design Pattern : Command
+// Seulement la partie 1 (j'avais la flemme de finir)
+
 package V2;
 import V2.Partie;
 
